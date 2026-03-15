@@ -1,0 +1,802 @@
+[
+    {
+        "id": "P_1",
+        "name": "Bay Area Data Center #1",
+        "role": "producer",
+        "lat": 37.49788284283375,
+        "lon": -121.89895470114662,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_2",
+        "name": "Bay Area Food Processor #2",
+        "role": "producer",
+        "lat": 37.3405090939489,
+        "lon": -122.45015471954083,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_3",
+        "name": "Bay Area Brewery #3",
+        "role": "producer",
+        "lat": 37.976625814428715,
+        "lon": -122.14386109230104,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_4",
+        "name": "Bay Area Paper Mill #4",
+        "role": "producer",
+        "lat": 37.35556060844015,
+        "lon": -121.90984385675414,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_5",
+        "name": "Bay Area Paper Mill #5",
+        "role": "producer",
+        "lat": 37.618348320485445,
+        "lon": -121.83413669118387,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_6",
+        "name": "Bay Area Data Center #6",
+        "role": "producer",
+        "lat": 37.415037202465626,
+        "lon": -122.43689795947313,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_7",
+        "name": "Bay Area Steel Plant #7",
+        "role": "producer",
+        "lat": 37.67894968041224,
+        "lon": -122.05100506873309,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_8",
+        "name": "Bay Area Brewery #8",
+        "role": "producer",
+        "lat": 37.314025230046006,
+        "lon": -122.03807227077864,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_9",
+        "name": "Bay Area Chemical Plant #9",
+        "role": "producer",
+        "lat": 37.59275456850202,
+        "lon": -122.2046822644031,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_10",
+        "name": "Bay Area Chemical Plant #10",
+        "role": "producer",
+        "lat": 37.74233807109853,
+        "lon": -121.98593765306457,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_11",
+        "name": "Bay Area Paper Mill #11",
+        "role": "producer",
+        "lat": 37.540781216737216,
+        "lon": -122.06039716212682,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_12",
+        "name": "Bay Area Lumber Mill #12",
+        "role": "producer",
+        "lat": 37.40731484915704,
+        "lon": -121.83879501740307,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_13",
+        "name": "Bay Area Auto Manufacturer #13",
+        "role": "producer",
+        "lat": 37.83480456927038,
+        "lon": -122.22154800161844,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_14",
+        "name": "Bay Area Textile Factory #14",
+        "role": "producer",
+        "lat": 37.31974909854581,
+        "lon": -121.8154455253693,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_15",
+        "name": "Bay Area Auto Manufacturer #15",
+        "role": "producer",
+        "lat": 37.81214268372864,
+        "lon": -122.16897426005559,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_16",
+        "name": "Bay Area Auto Manufacturer #16",
+        "role": "producer",
+        "lat": 37.70507486656801,
+        "lon": -121.99100324669442,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_17",
+        "name": "Bay Area Food Processor #17",
+        "role": "producer",
+        "lat": 37.941441213989606,
+        "lon": -121.93691075997653,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_18",
+        "name": "Bay Area Lumber Mill #18",
+        "role": "producer",
+        "lat": 37.68224421764007,
+        "lon": -122.04156457575716,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_19",
+        "name": "Bay Area Paper Mill #19",
+        "role": "producer",
+        "lat": 37.96558552420408,
+        "lon": -122.09843036231656,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_20",
+        "name": "Bay Area Lumber Mill #20",
+        "role": "producer",
+        "lat": 37.35918841756339,
+        "lon": -121.94152600273789,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_21",
+        "name": "Bay Area Paper Mill #21",
+        "role": "producer",
+        "lat": 37.573708353594796,
+        "lon": -122.03917760893016,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_22",
+        "name": "Bay Area Auto Manufacturer #22",
+        "role": "producer",
+        "lat": 37.44354877805831,
+        "lon": -122.4860968753091,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_23",
+        "name": "Bay Area Auto Manufacturer #23",
+        "role": "producer",
+        "lat": 37.3843905695817,
+        "lon": -122.34909599242566,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_24",
+        "name": "Bay Area Textile Factory #24",
+        "role": "producer",
+        "lat": 37.69869470106894,
+        "lon": -122.01260949420958,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_25",
+        "name": "Bay Area Auto Manufacturer #25",
+        "role": "producer",
+        "lat": 37.50104741439408,
+        "lon": -122.37632771568003,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_26",
+        "name": "Bay Area Textile Factory #26",
+        "role": "producer",
+        "lat": 37.93907901540761,
+        "lon": -121.98890800069097,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_27",
+        "name": "Bay Area Steel Plant #27",
+        "role": "producer",
+        "lat": 37.432429298930046,
+        "lon": -121.86976269635663,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_28",
+        "name": "Bay Area Chemical Plant #28",
+        "role": "producer",
+        "lat": 37.625716398758954,
+        "lon": -122.42138033841462,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_29",
+        "name": "Bay Area Paper Mill #29",
+        "role": "producer",
+        "lat": 37.32419516660101,
+        "lon": -122.20142828085068,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_30",
+        "name": "Bay Area Lumber Mill #30",
+        "role": "producer",
+        "lat": 37.681176558335046,
+        "lon": -121.93422163770475,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_31",
+        "name": "Bay Area Steel Plant #31",
+        "role": "producer",
+        "lat": 37.584178230549334,
+        "lon": -121.92363378959202,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_32",
+        "name": "Bay Area Data Center #32",
+        "role": "producer",
+        "lat": 37.67083230062394,
+        "lon": -122.04611560236542,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_33",
+        "name": "Bay Area Food Processor #33",
+        "role": "producer",
+        "lat": 37.45766596360291,
+        "lon": -122.10700592477707,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_34",
+        "name": "Bay Area Paper Mill #34",
+        "role": "producer",
+        "lat": 37.40101541530855,
+        "lon": -122.36852591725172,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_35",
+        "name": "Bay Area Paper Mill #35",
+        "role": "producer",
+        "lat": 37.40910547131946,
+        "lon": -121.93681035605552,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_36",
+        "name": "Bay Area Brewery #36",
+        "role": "producer",
+        "lat": 37.98603136546745,
+        "lon": -122.08555805895061,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_37",
+        "name": "Bay Area Textile Factory #37",
+        "role": "producer",
+        "lat": 37.33541467681244,
+        "lon": -122.24480495716122,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_38",
+        "name": "Bay Area Lumber Mill #38",
+        "role": "producer",
+        "lat": 37.553023204824264,
+        "lon": -122.26998952426841,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_39",
+        "name": "Bay Area Chemical Plant #39",
+        "role": "producer",
+        "lat": 37.717664490662564,
+        "lon": -121.99980933082313,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_40",
+        "name": "Bay Area Data Center #40",
+        "role": "producer",
+        "lat": 37.93313034039018,
+        "lon": -121.95629964726734,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_41",
+        "name": "Bay Area Food Processor #41",
+        "role": "producer",
+        "lat": 37.7476089785013,
+        "lon": -122.08914639999679,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_42",
+        "name": "Bay Area Steel Plant #42",
+        "role": "producer",
+        "lat": 37.90294520253482,
+        "lon": -122.20984868940245,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_43",
+        "name": "Bay Area Textile Factory #43",
+        "role": "producer",
+        "lat": 37.79523782401008,
+        "lon": -122.42728264528374,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_44",
+        "name": "Bay Area Chemical Plant #44",
+        "role": "producer",
+        "lat": 37.43324299010555,
+        "lon": -121.99429157812968,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_45",
+        "name": "Bay Area Paper Mill #45",
+        "role": "producer",
+        "lat": 37.72746869952898,
+        "lon": -122.02392644355368,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_46",
+        "name": "Bay Area Data Center #46",
+        "role": "producer",
+        "lat": 37.78174917575464,
+        "lon": -121.82855350609569,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_47",
+        "name": "Bay Area Auto Manufacturer #47",
+        "role": "producer",
+        "lat": 37.50915506117352,
+        "lon": -122.21227615069003,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_48",
+        "name": "Bay Area Food Processor #48",
+        "role": "producer",
+        "lat": 37.37324803677467,
+        "lon": -122.42641477087213,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_49",
+        "name": "Bay Area Paper Mill #49",
+        "role": "producer",
+        "lat": 37.84945869034529,
+        "lon": -121.80737217071713,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "P_50",
+        "name": "Bay Area Auto Manufacturer #50",
+        "role": "producer",
+        "lat": 37.854801692902846,
+        "lon": -122.05497716713326,
+        "description": "Generates industrial waste streams periodically."
+    },
+    {
+        "id": "C_1",
+        "name": "NorCal Recycling Center #1",
+        "role": "consumer",
+        "lat": 37.738022835072194,
+        "lon": -122.44681036222825,
+        "demand": "Requires plastic, metal scrap, or glass waste for processing."
+    },
+    {
+        "id": "C_2",
+        "name": "NorCal Packaging Manufacturer #2",
+        "role": "consumer",
+        "lat": 37.499467492835464,
+        "lon": -122.19065065727175,
+        "demand": "Requires secondary paper, cardboard, or recycled pulp fibers."
+    },
+    {
+        "id": "C_3",
+        "name": "NorCal Packaging Manufacturer #3",
+        "role": "consumer",
+        "lat": 37.82484591345934,
+        "lon": -122.49814425170874,
+        "demand": "Requires secondary paper, cardboard, or recycled pulp fibers."
+    },
+    {
+        "id": "C_4",
+        "name": "NorCal Composting Facility #4",
+        "role": "consumer",
+        "lat": 37.788154282184934,
+        "lon": -122.17437497099891,
+        "demand": "Requires solid organic waste, agricultural residue, or wood chips."
+    },
+    {
+        "id": "C_5",
+        "name": "NorCal Recycling Center #5",
+        "role": "consumer",
+        "lat": 37.82079848595848,
+        "lon": -122.04596138370691,
+        "demand": "Requires plastic, metal scrap, or glass waste for processing."
+    },
+    {
+        "id": "C_6",
+        "name": "NorCal Construction Materials Co #6",
+        "role": "consumer",
+        "lat": 37.74884702769209,
+        "lon": -122.41206097834979,
+        "demand": "Needs ash, slag, or mineral residues to mix into concrete and cement."
+    },
+    {
+        "id": "C_7",
+        "name": "NorCal Cooling Tower Facility #7",
+        "role": "consumer",
+        "lat": 37.71726944280593,
+        "lon": -121.93606550003233,
+        "demand": "Needs treated wastewater or gray water for industrial cooling systems."
+    },
+    {
+        "id": "C_8",
+        "name": "NorCal Composting Facility #8",
+        "role": "consumer",
+        "lat": 37.70935094719523,
+        "lon": -122.34019815633357,
+        "demand": "Requires solid organic waste, agricultural residue, or wood chips."
+    },
+    {
+        "id": "C_9",
+        "name": "NorCal Construction Materials Co #9",
+        "role": "consumer",
+        "lat": 37.87176627457388,
+        "lon": -122.16424375750847,
+        "demand": "Needs ash, slag, or mineral residues to mix into concrete and cement."
+    },
+    {
+        "id": "C_10",
+        "name": "NorCal Biogas Plant #10",
+        "role": "consumer",
+        "lat": 37.438016443123175,
+        "lon": -122.24382955208098,
+        "demand": "Needs high-moisture organic waste, sludge, or food scraps for anaerobic digestion."
+    },
+    {
+        "id": "C_11",
+        "name": "NorCal Recycling Center #11",
+        "role": "consumer",
+        "lat": 37.669679381527985,
+        "lon": -121.87875852667817,
+        "demand": "Requires plastic, metal scrap, or glass waste for processing."
+    },
+    {
+        "id": "C_12",
+        "name": "NorCal Greenhouse Farm #12",
+        "role": "consumer",
+        "lat": 37.810622737894604,
+        "lon": -122.48764522354458,
+        "demand": "Requires CO2 for enhanced plant growth and waste heat for temperature control."
+    },
+    {
+        "id": "C_13",
+        "name": "NorCal District Heating Facility #13",
+        "role": "consumer",
+        "lat": 37.77775303465579,
+        "lon": -122.23784850798195,
+        "demand": "Requires clean industrial waste heat or warm water for residential heating systems."
+    },
+    {
+        "id": "C_14",
+        "name": "NorCal District Heating Facility #14",
+        "role": "consumer",
+        "lat": 37.986823287297646,
+        "lon": -122.0707334606667,
+        "demand": "Requires clean industrial waste heat or warm water for residential heating systems."
+    },
+    {
+        "id": "C_15",
+        "name": "NorCal Biogas Plant #15",
+        "role": "consumer",
+        "lat": 37.66509477242581,
+        "lon": -121.88239544101627,
+        "demand": "Needs high-moisture organic waste, sludge, or food scraps for anaerobic digestion."
+    },
+    {
+        "id": "C_16",
+        "name": "NorCal District Heating Facility #16",
+        "role": "consumer",
+        "lat": 37.98703819475395,
+        "lon": -122.42049966977127,
+        "demand": "Requires clean industrial waste heat or warm water for residential heating systems."
+    },
+    {
+        "id": "C_17",
+        "name": "NorCal Composting Facility #17",
+        "role": "consumer",
+        "lat": 37.46584532578993,
+        "lon": -122.43044126369111,
+        "demand": "Requires solid organic waste, agricultural residue, or wood chips."
+    },
+    {
+        "id": "C_18",
+        "name": "NorCal Greenhouse Farm #18",
+        "role": "consumer",
+        "lat": 37.772900621890344,
+        "lon": -121.94246358492607,
+        "demand": "Requires CO2 for enhanced plant growth and waste heat for temperature control."
+    },
+    {
+        "id": "C_19",
+        "name": "NorCal Algae Biofuel Facility #19",
+        "role": "consumer",
+        "lat": 37.70389922359415,
+        "lon": -122.25403895516656,
+        "demand": "Needs high volumes of Carbon Dioxide (CO2) to accelerate algae photosynthesis."
+    },
+    {
+        "id": "C_20",
+        "name": "NorCal Construction Materials Co #20",
+        "role": "consumer",
+        "lat": 37.96759261117673,
+        "lon": -121.89601214558897,
+        "demand": "Needs ash, slag, or mineral residues to mix into concrete and cement."
+    },
+    {
+        "id": "C_21",
+        "name": "NorCal Composting Facility #21",
+        "role": "consumer",
+        "lat": 37.67769958578042,
+        "lon": -122.00058570150053,
+        "demand": "Requires solid organic waste, agricultural residue, or wood chips."
+    },
+    {
+        "id": "C_22",
+        "name": "NorCal Greenhouse Farm #22",
+        "role": "consumer",
+        "lat": 37.744795957957955,
+        "lon": -122.37606997164447,
+        "demand": "Requires CO2 for enhanced plant growth and waste heat for temperature control."
+    },
+    {
+        "id": "C_23",
+        "name": "NorCal Biogas Plant #23",
+        "role": "consumer",
+        "lat": 37.61767751885377,
+        "lon": -121.99689048142355,
+        "demand": "Needs high-moisture organic waste, sludge, or food scraps for anaerobic digestion."
+    },
+    {
+        "id": "C_24",
+        "name": "NorCal Construction Materials Co #24",
+        "role": "consumer",
+        "lat": 37.87250449747255,
+        "lon": -121.9171746428787,
+        "demand": "Needs ash, slag, or mineral residues to mix into concrete and cement."
+    },
+    {
+        "id": "C_25",
+        "name": "NorCal Packaging Manufacturer #25",
+        "role": "consumer",
+        "lat": 37.93999977889126,
+        "lon": -122.0601978746269,
+        "demand": "Requires secondary paper, cardboard, or recycled pulp fibers."
+    },
+    {
+        "id": "C_26",
+        "name": "NorCal Algae Biofuel Facility #26",
+        "role": "consumer",
+        "lat": 37.81108540352648,
+        "lon": -122.18507044184868,
+        "demand": "Needs high volumes of Carbon Dioxide (CO2) to accelerate algae photosynthesis."
+    },
+    {
+        "id": "C_27",
+        "name": "NorCal Composting Facility #27",
+        "role": "consumer",
+        "lat": 37.5027039518345,
+        "lon": -121.93567278441786,
+        "demand": "Requires solid organic waste, agricultural residue, or wood chips."
+    },
+    {
+        "id": "C_28",
+        "name": "NorCal Composting Facility #28",
+        "role": "consumer",
+        "lat": 37.96197598326435,
+        "lon": -122.36536762701988,
+        "demand": "Requires solid organic waste, agricultural residue, or wood chips."
+    },
+    {
+        "id": "C_29",
+        "name": "NorCal Construction Materials Co #29",
+        "role": "consumer",
+        "lat": 37.92778322954468,
+        "lon": -122.10923108638806,
+        "demand": "Needs ash, slag, or mineral residues to mix into concrete and cement."
+    },
+    {
+        "id": "C_30",
+        "name": "NorCal Packaging Manufacturer #30",
+        "role": "consumer",
+        "lat": 37.88225272730665,
+        "lon": -121.98238482870353,
+        "demand": "Requires secondary paper, cardboard, or recycled pulp fibers."
+    },
+    {
+        "id": "C_31",
+        "name": "NorCal Algae Biofuel Facility #31",
+        "role": "consumer",
+        "lat": 37.51596255892489,
+        "lon": -121.89866974648655,
+        "demand": "Needs high volumes of Carbon Dioxide (CO2) to accelerate algae photosynthesis."
+    },
+    {
+        "id": "C_32",
+        "name": "NorCal Biogas Plant #32",
+        "role": "consumer",
+        "lat": 37.94126909706507,
+        "lon": -122.34930123326656,
+        "demand": "Needs high-moisture organic waste, sludge, or food scraps for anaerobic digestion."
+    },
+    {
+        "id": "C_33",
+        "name": "NorCal Biogas Plant #33",
+        "role": "consumer",
+        "lat": 37.31257179693372,
+        "lon": -122.46604390154793,
+        "demand": "Needs high-moisture organic waste, sludge, or food scraps for anaerobic digestion."
+    },
+    {
+        "id": "C_34",
+        "name": "NorCal Packaging Manufacturer #34",
+        "role": "consumer",
+        "lat": 37.975910647963495,
+        "lon": -121.98793391933387,
+        "demand": "Requires secondary paper, cardboard, or recycled pulp fibers."
+    },
+    {
+        "id": "C_35",
+        "name": "NorCal Greenhouse Farm #35",
+        "role": "consumer",
+        "lat": 37.63774299076015,
+        "lon": -122.21526632188788,
+        "demand": "Requires CO2 for enhanced plant growth and waste heat for temperature control."
+    },
+    {
+        "id": "C_36",
+        "name": "NorCal Greenhouse Farm #36",
+        "role": "consumer",
+        "lat": 37.54797692239759,
+        "lon": -122.36868504836924,
+        "demand": "Requires CO2 for enhanced plant growth and waste heat for temperature control."
+    },
+    {
+        "id": "C_37",
+        "name": "NorCal Cooling Tower Facility #37",
+        "role": "consumer",
+        "lat": 37.59242269611704,
+        "lon": -122.14873068583259,
+        "demand": "Needs treated wastewater or gray water for industrial cooling systems."
+    },
+    {
+        "id": "C_38",
+        "name": "NorCal Greenhouse Farm #38",
+        "role": "consumer",
+        "lat": 37.86513541210301,
+        "lon": -122.08567501371526,
+        "demand": "Requires CO2 for enhanced plant growth and waste heat for temperature control."
+    },
+    {
+        "id": "C_39",
+        "name": "NorCal Composting Facility #39",
+        "role": "consumer",
+        "lat": 37.703905714629634,
+        "lon": -122.12458413349783,
+        "demand": "Requires solid organic waste, agricultural residue, or wood chips."
+    },
+    {
+        "id": "C_40",
+        "name": "NorCal Construction Materials Co #40",
+        "role": "consumer",
+        "lat": 37.709839078184466,
+        "lon": -121.89201651773351,
+        "demand": "Needs ash, slag, or mineral residues to mix into concrete and cement."
+    },
+    {
+        "id": "C_41",
+        "name": "NorCal Algae Biofuel Facility #41",
+        "role": "consumer",
+        "lat": 37.878105000773886,
+        "lon": -121.99819444178321,
+        "demand": "Needs high volumes of Carbon Dioxide (CO2) to accelerate algae photosynthesis."
+    },
+    {
+        "id": "C_42",
+        "name": "NorCal Construction Materials Co #42",
+        "role": "consumer",
+        "lat": 37.468469029712764,
+        "lon": -122.19430756460301,
+        "demand": "Needs ash, slag, or mineral residues to mix into concrete and cement."
+    },
+    {
+        "id": "C_43",
+        "name": "NorCal District Heating Facility #43",
+        "role": "consumer",
+        "lat": 37.47015153715938,
+        "lon": -121.96550794040455,
+        "demand": "Requires clean industrial waste heat or warm water for residential heating systems."
+    },
+    {
+        "id": "C_44",
+        "name": "NorCal Cooling Tower Facility #44",
+        "role": "consumer",
+        "lat": 37.53920926730319,
+        "lon": -121.95018188878207,
+        "demand": "Needs treated wastewater or gray water for industrial cooling systems."
+    },
+    {
+        "id": "C_45",
+        "name": "NorCal Greenhouse Farm #45",
+        "role": "consumer",
+        "lat": 37.89555033284584,
+        "lon": -122.39295188840076,
+        "demand": "Requires CO2 for enhanced plant growth and waste heat for temperature control."
+    },
+    {
+        "id": "C_46",
+        "name": "NorCal Construction Materials Co #46",
+        "role": "consumer",
+        "lat": 37.86748911358935,
+        "lon": -122.31499426660835,
+        "demand": "Needs ash, slag, or mineral residues to mix into concrete and cement."
+    },
+    {
+        "id": "C_47",
+        "name": "NorCal District Heating Facility #47",
+        "role": "consumer",
+        "lat": 37.47747269999974,
+        "lon": -122.25221583443064,
+        "demand": "Requires clean industrial waste heat or warm water for residential heating systems."
+    },
+    {
+        "id": "C_48",
+        "name": "NorCal Biogas Plant #48",
+        "role": "consumer",
+        "lat": 37.30211630365102,
+        "lon": -121.80162997415297,
+        "demand": "Needs high-moisture organic waste, sludge, or food scraps for anaerobic digestion."
+    },
+    {
+        "id": "C_49",
+        "name": "NorCal Biogas Plant #49",
+        "role": "consumer",
+        "lat": 37.645245532488374,
+        "lon": -122.13911305833521,
+        "demand": "Needs high-moisture organic waste, sludge, or food scraps for anaerobic digestion."
+    },
+    {
+        "id": "C_50",
+        "name": "NorCal Composting Facility #50",
+        "role": "consumer",
+        "lat": 37.35081261686094,
+        "lon": -122.21913945100093,
+        "demand": "Requires solid organic waste, agricultural residue, or wood chips."
+    }
+]

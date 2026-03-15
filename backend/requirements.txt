@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+requests
+sentence-transformers
+chromadb
+langchain
+langchain-groq
+langchain-openai
+websockets
+python-dotenv
+geopy
+pydantic
