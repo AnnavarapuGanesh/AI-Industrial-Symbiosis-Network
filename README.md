@@ -5,7 +5,7 @@
 ---
 
 ## 📺 Demo Video
-![WasteLink AI Demo](AI-Industrial-Symbiosis-Network.mp4)
+<video src="AI-Industrial-Symbiosis-Network.mp4" width="100%" autoplay loop muted playsinline></video>
 
 ---
 
