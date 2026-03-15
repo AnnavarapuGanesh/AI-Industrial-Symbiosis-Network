@@ -4,6 +4,11 @@
 
 ---
 
+## 📺 Demo Video
+![WasteLink AI Demo](AI-Industrial-Symbiosis-Network.mp4)
+
+---
+
 ## 🚀 Overview
 WasteLink AI simulates an industrial ecosystem where waste producers (e.g., steel plants, food processors) and resource consumers (e.g., greenhouses, biofuel plants) are matched in real-time. The system uses a multi-agent architectural pipeline to interpret raw waste events, find semantic matches, optimize logistics, and draft mutual resource agreements.
 
