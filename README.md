@@ -5,7 +5,7 @@
 ---
 
 ## 📺 Demo Video
-![WasteLink AI Demo](https://github.com/AnnavarapuGanesh/AI-Industrial-Symbiosis-Network/raw/master/AI-Industrial-Symbiosis-Network.mp4)
+![WasteLink AI Demo](AI-Industrial-Symbiosis-Network.mp4)
 
 ---
 
